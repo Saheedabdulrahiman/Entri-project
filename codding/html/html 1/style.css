@@ -1,0 +1,26 @@
+body{
+    background-color: beige;
+}
+div h1{
+    margin-bottom: 50px;
+    margin-left: 20px;
+    color: blue;
+}
+h2
+{
+    color: coral;
+}
+form
+{
+margin-left: 50px;
+}
+.heading{
+color: blueviolet;
+}
+#second
+{
+    color: blue;
+}
+h2,h3{
+    background-color: aliceblue;
+}
